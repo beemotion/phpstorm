@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="61cbf20d-ca57-43e9-b703-190561a93f89" name="ftp.louw.nu" url="http://www.louw.nu">
+        <fileTransfer host="ftp.louw.nu" port="21" rootFolder="/domains/louw.nu/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
