@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../daan/php/authenticator/check.php [louw.nu]'" />
     <option name="defaultScopeName" value="File '.../daan/php/authenticator/check.php [louw.nu]'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../daan/php/authenticator/check.php [louw.nu]'" />
   </component>
 </application>
