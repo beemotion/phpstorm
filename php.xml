@@ -43,7 +43,7 @@
             <configuration_option name="disable_functions" value="" />
             <configuration_option name="display_errors" value="" />
             <configuration_option name="display_startup_errors" value="" />
-            <configuration_option name="doc_root" value="" />
+            <configuration_option name="doc_root" value="$USER_HOME$/Dropbox (BeeMotion)/_Programming/PhpStorm/beemotion.nl/" />
             <configuration_option name="docref_ext" value="" />
             <configuration_option name="docref_root" value="" />
             <configuration_option name="enable_dl" value="1" />
