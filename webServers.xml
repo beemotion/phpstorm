@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="450e4a81-9bdf-4507-97b0-e11613e2db6b" name="ftp.louwfacturatie.nl" url="http://www.louwfacturatie.nl">
-        <fileTransfer host="ftp.louwfacturatie.nl" port="21" rootFolder="/domains/louwfacturatie.nl/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="a7ea61f5-27ec-43c1-8ca7-1dda5896c59d" name="ftp.beemotion.nl" url="http://www.beemotion.nl">
         <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/beemotion.nl/public_html/">
           <advancedOptions>
