@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../finance/_0000/includes/modal_bodys/body_modal_facturen.php [beemotion.nl]'" />
-    <option name="defaultScopeName" value="File '.../finance/_0000/includes/modal_bodys/body_modal_facturen.php [beemotion.nl]'" />
+    <option name="customScope" value="File '.../daan/css/style.css [louw.nu]'" />
+    <option name="defaultScopeName" value="File '.../daan/css/style.css [louw.nu]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../finance/_0000/includes/modal_bodys/body_modal_facturen.php [beemotion.nl]'" />
+    <option name="SEARCH_SCOPE" value="File '.../daan/css/style.css [louw.nu]'" />
   </component>
 </application>
