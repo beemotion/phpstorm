@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="bootstrap_overwrite" type="CSS" />
+      <mapping pattern="bootstrap overwrite" type="CSS" />
+    </extensionMap>
+  </component>
+</application>
