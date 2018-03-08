@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="70fcbac5-2b1d-4661-bfd8-b258773074a5" name="ftp.agvi.nl" url="http://www.agvi.nl">
+        <fileTransfer host="www.agvi.nl" port="21" rootFolder="/domains/agvi.nl/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="a7ea61f5-27ec-43c1-8ca7-1dda5896c59d" name="ftp.beemotion.nl" url="http://www.beemotion.nl">
         <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/beemotion.nl/public_html/">
           <advancedOptions>
@@ -19,14 +27,6 @@
       </webServer>
       <webServer id="1eac0656-f34c-4033-a858-0e48caa18d8d" name="ftp.seecreate.nl" url="http://ftp.seecreate.nl">
         <fileTransfer host="ftp.seecreate.nl" port="21" rootFolder="/domains/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="66876a40-2a92-43a4-86ac-b7eab459dbb4" name="agvi.nl" url="http://www.agvi.nl">
-        <fileTransfer host="www.agvi.nl" port="21" rootFolder="/domains/agvi.nl/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
