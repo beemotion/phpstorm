@@ -25,6 +25,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="66876a40-2a92-43a4-86ac-b7eab459dbb4" name="agvi.nl" url="http://www.agvi.nl">
+        <fileTransfer host="www.agvi.nl" port="21" rootFolder="/domains/agvi.nl/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
