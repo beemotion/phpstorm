@@ -33,6 +33,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="fbdf07ef-6300-416d-813b-be8b8d87a8da" name="ftp.otlouw.nl" url="http://www.otlouw.nl">
+        <fileTransfer host="www.otlouw.nl" port="21" rootFolder="/domains/otlouw.nl/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
