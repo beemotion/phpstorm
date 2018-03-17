@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../base/test.html [beemotion.nl]'" />
-    <option name="defaultScopeName" value="File '.../base/test.html [beemotion.nl]'" />
+    <option name="customScope" value="File '.../finance/_0000/overzicht/xls_function.php [beemotion.nl]'" />
+    <option name="defaultScopeName" value="File '.../finance/_0000/overzicht/xls_function.php [beemotion.nl]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../base/test.html [beemotion.nl]'" />
+    <option name="SEARCH_SCOPE" value="File '.../finance/_0000/overzicht/xls_function.php [beemotion.nl]'" />
   </component>
 </application>
