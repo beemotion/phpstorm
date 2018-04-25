@@ -41,6 +41,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6638daac-3b8b-49ab-b4f1-5382746c1e69" name="markedomulder.nl" url="http://beemotion.nl">
+        <fileTransfer host="beemotion.nl" port="21" rootFolder="/domains/markedomulder.nl/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
