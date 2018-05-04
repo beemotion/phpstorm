@@ -49,6 +49,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="86d714f5-7e62-4d61-8479-54e539f0ce78" name="ftp.ohcsepoolservice.nl" url="http://server84.hosting2go.nl">
+        <fileTransfer host="server84.hosting2go.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
