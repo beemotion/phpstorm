@@ -28,7 +28,7 @@
       <webServer id="1eac0656-f34c-4033-a858-0e48caa18d8d" name="ftp.seecreate.nl" url="http://ftp.seecreate.nl">
         <fileTransfer host="ftp.seecreate.nl" port="21" rootFolder="/domains/">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
