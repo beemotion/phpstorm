@@ -57,6 +57,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="1d99d810-a114-4958-9461-19160de893f3" name="ftp.arthurmartin.nl" url="http://www.arthurmartin.nl">
+        <fileTransfer host="www.arthurmartin.nl" port="21" rootFolder="/domains/arthurmartin.nl/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
