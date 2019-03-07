@@ -65,6 +65,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="be844a12-78cc-4452-8e46-050bf5560484" name="ftp.quickadjust.nl" url="http://www.beemotion.nl">
+        <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/quickadjust.nl/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
