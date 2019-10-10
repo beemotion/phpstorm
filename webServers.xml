@@ -73,14 +73,6 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="a45d7127-1e1b-4e06-b828-ddedee571b14" name="ondernemersgooisemeren.nl" url="http://sftp.ondernemersgooisemeren.nl">
-        <fileTransfer host="sftp.ondernemersgooisemeren.nl" port="22" rootFolder="/public/sites/www.ondernemersgooisemeren.nl" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="a73b7f8f-f3a6-45ee-8233-41b1981e6245" name="ftp.daangorter.nl" url="http://www.beemotion.nl">
         <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/daangorter.nl/public_html/">
           <advancedOptions>
