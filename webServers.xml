@@ -1,88 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="70fcbac5-2b1d-4661-bfd8-b258773074a5" name="ftp.agvi.nl" url="http://www.agvi.nl">
-        <fileTransfer host="www.agvi.nl" port="21" rootFolder="/domains/agvi.nl/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a7ea61f5-27ec-43c1-8ca7-1dda5896c59d" name="ftp.beemotion.nl" url="http://www.beemotion.nl">
+      <webServer id="8185d51b-8995-48f9-bfc8-6de456695a88" name="ftp.beemotion.nl" url="http://ftp.beemotion.nl">
         <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/beemotion.nl/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="61cbf20d-ca57-43e9-b703-190561a93f89" name="ftp.louw.nu" url="http://www.louw.nu">
-        <fileTransfer host="ftp.louw.nu" port="21" rootFolder="/domains/louw.nu/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="1eac0656-f34c-4033-a858-0e48caa18d8d" name="ftp.seecreate.nl" url="http://ftp.seecreate.nl">
-        <fileTransfer host="ftp.seecreate.nl" port="21" rootFolder="/domains/daangorter.nl/public_html">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="fbdf07ef-6300-416d-813b-be8b8d87a8da" name="ftp.otlouw.nl" url="http://www.otlouw.nl">
-        <fileTransfer host="www.otlouw.nl" port="21" rootFolder="/domains/otlouw.nl/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="6638daac-3b8b-49ab-b4f1-5382746c1e69" name="markedomulder.nl" url="http://beemotion.nl">
-        <fileTransfer host="beemotion.nl" port="21" rootFolder="/domains/markedomulder.nl/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="86d714f5-7e62-4d61-8479-54e539f0ce78" name="ftp.ohcsepoolservice.nl" url="http://server84.hosting2go.nl">
-        <fileTransfer host="server84.hosting2go.nl" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="1d99d810-a114-4958-9461-19160de893f3" name="ftp.arthurmartin.nl" url="http://www.arthurmartin.nl">
-        <fileTransfer host="www.arthurmartin.nl" port="21" rootFolder="/domains/arthurmartin.nl/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="be844a12-78cc-4452-8e46-050bf5560484" name="ftp.quickadjust.nl" url="http://www.beemotion.nl">
-        <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/quickadjust.nl/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a45d7127-1e1b-4e06-b828-ddedee571b14" name="ondernemersgooisemeren.nl" url="http://ftp.ondernemersgooisemeren.nl">
-        <fileTransfer host="ftp.ondernemersgooisemeren.nl" port="21" rootFolder="/public/sites/www.ondernemersgooisemeren.nl">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a73b7f8f-f3a6-45ee-8233-41b1981e6245" name="ftp.daangorter.nl" url="http://www.beemotion.nl">
-        <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/daangorter.nl/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
