@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="8185d51b-8995-48f9-bfc8-6de456695a88" name="ftp.beemotion.nl" url="http://ftp.beemotion.nl">
-        <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/beemotion.nl/public_html/">
+        <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
