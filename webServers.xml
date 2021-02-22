@@ -15,6 +15,14 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="db3be1be-1864-43f3-8f15-d4fecba1a933" name="viasim.nl" url="http://supply4u.com">
+        <fileTransfer host="supply4u.com" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
