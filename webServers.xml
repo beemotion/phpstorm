@@ -22,6 +22,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="2285f3d5-0312-424f-bd47-d0bd0714596d" name="agvi.nl" url="http://web27.ixlhosting.nl">
+        <fileTransfer rootFolder="/domains" host="web27.ixlhosting.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
