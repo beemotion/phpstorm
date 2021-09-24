@@ -1,28 +1,25 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="8185d51b-8995-48f9-bfc8-6de456695a88" name="ftp.beemotion.nl" url="http://ftp.beemotion.nl">
-        <fileTransfer host="ftp.beemotion.nl" port="21" rootFolder="/domains/">
+      <webServer id="8185d51b-8995-48f9-bfc8-6de456695a88" name="ftp.beemotion.nl" url="http://web27.ixlhosting.nl">
+        <fileTransfer rootFolder="/domains" host="web27.ixlhosting.nl" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="615bf4c1-107c-480b-98f4-062dcc49573e" name="spaceouterstudio.com" url="http://185.107.112.222">
-        <fileTransfer host="185.107.112.222" port="21" rootFolder="/httpdocs">
+        <fileTransfer rootFolder="/httpdocs" host="185.107.112.222" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="db3be1be-1864-43f3-8f15-d4fecba1a933" name="viasim.nl" url="http://supply4u.com">
-        <fileTransfer host="supply4u.com" port="21" rootFolder="/public_html">
+        <fileTransfer rootFolder="/public_html" host="supply4u.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
