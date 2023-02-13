@@ -29,6 +29,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f36dd98d-800e-4ea2-8feb-2357a69ccb2b" name="amartin IXL" url="http://web27.ixlhosting.nl">
+        <fileTransfer rootFolder="/domains/arthurmartin.nl/public_html" host="web27.ixlhosting.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
